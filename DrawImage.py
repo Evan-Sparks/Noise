@@ -1,4 +1,3 @@
-__author__ = 'Evan'
 from PIL import Image
 from NoiseModifiers import *
 from FractalNoise import *
