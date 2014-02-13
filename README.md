@@ -1,12 +1,15 @@
 Noise
 =====
 
-A simple Noise library.  Currently only implements a version of Ken Perlin's original 1983 3d noise algorithm as well as means of manipulating that noise, including fractalization with configurable persistence and lacunarity.
+A simple Noise library.  Currently implements a version of Ken Perlin's original 1983 3d noise algorithm and a 2d Worley noise algorithm, as well as means of manipulating that noise, including fractalization with configurable persistence and lacunarity.
 
 Example outputs:
 
-Simple high frequency noise:
-![Alt text](/Examples/Noise.png "Simple Noise")
+High frequency Perlin noise:
+![Alt text](/Examples/Noise.png "Perlin Noise")
+
+Worley Noise:
+![Alt text](/Examples/Worley.png "Worley Noise")
 
 Fractal noise with 3 octives:
 ![Alt text](/Examples/FractalNoise.png "Fractal Noise")
